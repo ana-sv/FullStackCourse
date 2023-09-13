@@ -43,4 +43,8 @@ So, the browser reloads the Notes page. The reload causes three more HTTP reques
 **AJAX**
 AJAX (Asynchronous JavaScript and XML) enabled the fetching of content to web pages using JavaScript included within the HTML, without the need to rerender the page.
   
-[HTML Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)  |  [CSS Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)  |  [HTML forms Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
+[HTML Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+[CSS Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
+[HTML forms Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
