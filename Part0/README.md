@@ -2,7 +2,7 @@
 # [[ Part 0 ] Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
 ---
 
-#Notes
+# Notes
 
 *The 1st rule of web development: Always keep the Developer Console open on your web browser with console open*
   
